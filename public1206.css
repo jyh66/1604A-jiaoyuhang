@@ -1,0 +1,40 @@
+img {
+    display:block
+}
+address,caption,cite,code,dfn,th,var {
+    font-style:normal;
+    font-weight:normal
+}
+ul,ol {
+    list-style:none
+}
+input {
+    padding-top:0;
+    padding-bottom:0;
+}
+input::-moz-focus-inner {
+    border:0;
+    padding:0
+}
+select,input {
+    vertical-align:middle
+}
+select,input,textarea {
+    font-size:12px;
+    margin:0
+}
+input[type="text"],input[type="password"],textarea {
+    outline-style:none;
+    -webkit-appearance:none
+}
+textarea {
+    resize:none
+}
+table {
+    border-collapse:collapse
+}
+a {
+    text-decoration: none;
+    color: #ccc;
+    font-size: 12px;
+}

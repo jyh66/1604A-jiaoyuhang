@@ -1,0 +1,74 @@
+#window{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+#window .class_1{
+    width: 500px;
+    height: 45px;
+    margin: 0 auto;
+    background-color: red;
+}
+
+#window .class_1 input{
+    width: 411px;
+    height: 45px;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+
+#window .class_1 span{
+    width: 85px;
+    height: 40px;
+    margin-left: 18px;
+    color: #fff;
+    font-family: bold;
+    cursor:pointer;
+}
+
+#window .class_1 button{
+    background-color: red;
+    border: none;
+}
+
+#window .class_1 .class_1_1{
+    width: 500px;
+    height: 40px;
+    background-color: #fff;
+    margin-left: 10px;
+    cursor:pointer;
+}
+
+#window .class_1 .class_1_1 a{
+    margin-top: 10px;
+    margin-left: 2px;
+}
+
+#window .class_3{
+    margin-top: 20px;
+    width: 1000px;
+    height: 300px;
+}
+
+#window .class_3 ul{
+    float: left;
+}
+
+#window .class_3 ul li{
+    margin-top: 20px;
+    margin-left: 37px;
+    width: 155px;
+    float: left;
+}
+
+#window .class_3 ul li img{
+    width: 150px;
+    height: 130px;
+}
+
+#window .class_3 ul li p{
+    font-size: 10px;
+    word-break:break-all;
+    word-wrap:break-word;
+}
